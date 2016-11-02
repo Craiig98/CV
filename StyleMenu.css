@@ -1,0 +1,12 @@
+#heading{
+    font-weight:bold;
+    font-size:18px
+    font-family: 'Dancing Script', cursive;
+    color: darkred;
+}
+
+p {
+    font-size:14px
+    font-family: 'Shrikhand', cursive;
+    color: darkslategray;
+}
